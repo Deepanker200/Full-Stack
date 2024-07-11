@@ -3,6 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 110vh;
+    background-color: pink;
 }
 
 .container{
